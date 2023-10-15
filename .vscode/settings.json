@@ -1,0 +1,6 @@
+{
+    "clangd.fallbackFlags": [
+        "-I${workspaceFolder}/include",
+        "--target=arm-none-eabi",
+    ],
+}
